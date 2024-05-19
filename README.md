@@ -17,9 +17,10 @@ Visual components and Python
 
 
 ## Experiment:
-```
-![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/91d80f79-80f2-4d83-8f16-7b5ab37f39ce)
-```
+![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/087b03fa-4c6b-484c-9b95-ca5d58e27c4a)
+![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/9de1283f-4e37-4c3f-836c-018c8504af67)
+![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/87e70984-3d49-4f48-9ebf-9806fccce330)
+![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/0f151285-cfd4-480c-b17a-73c359e90835)
 
 
 ## Program
@@ -60,13 +61,13 @@ if (lam <  mu1) and (lam <  mu2) and (lam <  mu3):
     print("Average waiting time of an object in the conveyor S3 : %0.2f secs"%Wq3)
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
-print("----------------------------------------------------------------------")```
+print("----------------------------------------------------------------------")
+```
 
 
 ## Output
-```
-![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/e2154e83-c7c9-4b55-87f7-5ad0eb9dd15b)
-```
+![image](https://github.com/POORNACHANRARAO/Open-Jacson-Networks/assets/163993491/742bc959-afe8-4f83-ac13-8baeaac61acb)
+
 
 
 ## Result
